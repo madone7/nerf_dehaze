@@ -7,5 +7,4 @@ arxiv
 https://arxiv.org/abs/2303.09153
 
 
- 
-![nerf_dehaze](https://github.com/madone7/nerf_dehaze/assets/37258828/fea07d53-fa73-414b-9fe1-6b4abd6751fe)
+![nerf_dehaze](https://github.com/madone7/nerf_dehaze/assets/37258828/002a8573-b20d-4752-bad2-ae16ea1ff7c4)
